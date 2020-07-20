@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 543 600" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+  <title>Page 1</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <linearGradient x1="21.4661737%" y1="-51.4408639%" x2="49.9016193%" y2="173.147446%" id="linearGradient-1">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="21.4661737%" y1="-56.5070574%" x2="49.9016193%" y2="179.297717%" id="linearGradient-2">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="21.4661737%" y1="-124.621104%" x2="49.9016193%" y2="261.986986%" id="linearGradient-3">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M76.6030819,474.745294 L20.2254669,587.5 L279.774287,587.5 L259.770723,547.494147 C259.180707,547.498048 258.590463,547.5 258,547.5 C189.351532,547.5 124.938964,520.993665 76.6030646,474.745277 Z" id="Combined-Shape" stroke="url(#linearGradient-1)" stroke-width="25"></path>
+    <path d="M390.588942,264.549513 L-33.6879682,264.549513 C-27.2177457,376.091756 65.2861627,464.549513 178.450487,464.549513 C291.614812,464.549513 384.11872,376.091756 390.588942,264.549513 Z" id="Combined-Shape" stroke="url(#linearGradient-2)" stroke-width="25" transform="translate(178.450487, 364.549513) rotate(45.000000) translate(-178.450487, -364.549513) "></path>
+    <path d="M270.5,138.0222 L270.5,188.293811 C314.351541,193.905841 349.094159,228.648459 354.706189,272.5 L404.9778,272.5 C398.97853,201.009129 341.990871,144.02147 270.5,138.0222 Z" id="Combined-Shape" stroke="url(#linearGradient-3)" stroke-width="25"></path>
+    <path d="M270.5,12.7816039 L270.5,62.8452102 C383.430846,69.0990856 473.900914,159.569154 480.15479,272.5 L530.218396,272.5 C523.872523,131.947769 411.052231,19.1274765 270.500129,12.7816097 Z" id="Combined-Shape" stroke="url(#linearGradient-3)" stroke-width="25"></path>
+  </g>
+</svg>

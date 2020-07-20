@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 600 600" version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+  <title>Page 1</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <linearGradient x1="33.9497227%" y1="-375.117529%" x2="49.9446609%" y2="566.085291%" id="linearGradient-1">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="21.4661737%" y1="-376.028229%" x2="49.9016193%" y2="567.190866%" id="linearGradient-2">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="21.4661737%" y1="-124.621104%" x2="49.9016193%" y2="261.986986%" id="linearGradient-3">
+      <stop stop-color="#00ADE7" offset="0%"></stop>
+      <stop stop-color="#04E3D5" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M100,460.600016 L43.0375059,612.5 L156.962494,612.5 L100,460.600016 Z" id="Triangle" stroke="url(#linearGradient-1)" stroke-width="25" transform="translate(100.000000, 525.000000) rotate(90.000000) translate(-100.000000, -525.000000) "></path>
+    <path d="M12.5,212.697796 L12.5,287.745431 C175.147766,294.143668 305.856332,424.852234 312.254565,587.499904 L387.302204,587.5 C380.834894,383.425308 216.574692,219.165106 12.5000613,212.697798 Z" id="Combined-Shape" stroke="url(#linearGradient-2)" stroke-width="25"></path>
+    <path d="M12.5,12.6303424 L12.5,87.6494549 C285.616068,94.1869937 505.813006,314.383932 512.350544,587.499966 L587.369658,587.5 C580.804316,272.960253 327.039747,19.1956842 12.5000259,12.6303429 Z" id="Combined-Shape" stroke="url(#linearGradient-3)" stroke-width="25"></path>
+  </g>
+</svg>

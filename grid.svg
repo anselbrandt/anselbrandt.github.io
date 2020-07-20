@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 606 605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.4661737%" y1="-375.117529%" x2="49.9016193%" y2="566.085291%" id="linearGradient-1">
+            <stop stop-color="#00ADE7" offset="0%"></stop>
+            <stop stop-color="#04E3D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.4661737%" y1="-376.028229%" x2="49.9016193%" y2="567.190866%" id="linearGradient-2">
+            <stop stop-color="#00ADE7" offset="0%"></stop>
+            <stop stop-color="#04E3D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.4661737%" y1="-124.621104%" x2="49.9016193%" y2="261.986986%" id="linearGradient-3">
+            <stop stop-color="#00ADE7" offset="0%"></stop>
+            <stop stop-color="#04E3D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="26.5439266%" y1="-376.028229%" x2="49.9191267%" y2="567.190866%" id="linearGradient-4">
+            <stop stop-color="#00ADE7" offset="0%"></stop>
+            <stop stop-color="#04E3D5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="25" x="13" y="442" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="25" x="228" y="442" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="25" x="443" y="442" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="25" x="13" y="228" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="25" x="443" y="228" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="25" x="13" y="13" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="25" x="443" y="13" width="150" height="150" rx="25"></rect>
+        <rect id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="25" x="228" y="13" width="150" height="150" rx="25"></rect>
+        <path d="M263.563981,383 L263.563981,331.646953 C263.563981,323.038829 264.658768,316.664875 266.848341,312.52509 C270.763033,305.165472 278.42654,301.485663 289.838863,301.485663 C290.701422,301.485663 291.829384,301.518519 293.222749,301.584229 C294.616114,301.64994 296.208531,301.781362 298,301.978495 L298,301.978495 L298,273.197133 C296.739336,273.131422 295.92654,273.082139 295.561611,273.049283 C295.196682,273.016428 294.748815,273 294.218009,273 C285.725118,273 278.824645,275.201314 273.516588,279.603943 C270.265403,282.232378 266.450237,287.127838 262.07109,294.290323 L262.07109,294.290323 L262.07109,275.562724 L235,275.562724 L235,383 L263.563981,383 Z M314.267327,383 L371,233 L347.534653,233 L291,383 L314.267327,383 Z" id="r/" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+    </g>
+</svg>
